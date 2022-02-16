@@ -2,12 +2,12 @@
 ![HTML](./images/html-5.svg)
 ![CSS](./images/css3.svg)
 ![JS](./images/JS.svg)
-![Git](./images/git.svg)
+![Git](./images/git.svg) <br>
 ![Webpack](./images/webpack.svg)
 ![React](./images/react.svg)
 ![Redux](./images/redux.svg)
 ![Node](./images/nodejs.svg)
-![MongoDB](./images/mongodb.svg)
+
 
 ## Contacts:
 [<img src="./images/Linkedin.svg">](https://www.linkedin.com/in/igor-timonin-750085232/)
