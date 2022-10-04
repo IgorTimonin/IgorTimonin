@@ -5,7 +5,7 @@ const igorTimonin = {
   code: [Javascript, HTML, CSS],
   frameworks: [React, Redux],
   tools: [Express, MongoDB, Webpack]
-  architecture: ["Single Page Application", "API"],
+  architecture: ["Single Page Application", "API", "Landing page"],
   
  challenge: "Get work and coding hard!" But with fun)
 }
