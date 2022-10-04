@@ -2,8 +2,8 @@
 ![HTML](./images/html-5.svg)
 ![CSS](./images/css3.svg)
 ![JS](./images/JS.svg)
-![Git](./images/git.svg) <br>
-![Webpack](./images/webpack.svg)
+![Git](./images/git.svg) 
+![Webpack](./images/webpack.svg) <br>
 ![React](./images/react.svg)
 ![Redux](./images/redux.svg)
 ![Node](./images/nodejs.svg)
