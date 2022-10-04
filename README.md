@@ -25,7 +25,7 @@ const igorTimonin = {
 ![Node](./images/mongodb.svg)
 
 
-## Contacts:
+## ~~Constants~~ Contacts:
 [<img src="./images/Linkedin.svg">](https://www.linkedin.com/in/igor-timonin-750085232/)
 [<img src="./images/gmail.svg" width="96px" height="96px">](mailto:lemut4nt@gmail.com)
 
