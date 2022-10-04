@@ -1,4 +1,18 @@
-## My Steak:
+## aboutMe:
+```js
+const igorTimonin = {
+  gender: "male",
+  code: [Javascript, HTML, CSS],
+  frameworks: [React, Redux],
+  tools: [Express, MongoDB, Webpack]
+  architecture: ["Single Page Application", "API"],
+  
+ challenge: "Get work and coding hard!" But with fun)
+}
+```
+
+
+## mySteak:
 ![HTML](./images/html-5.svg)
 ![CSS](./images/css3.svg)
 ![JS](./images/JS.svg)
