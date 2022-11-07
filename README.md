@@ -7,7 +7,7 @@ const igorTimonin = {
   tools: [Express, MongoDB, Webpack]
   architecture: ["Single Page Application", "API", "Landing page"],
   
- challenge: {`Get work and coding hard! ${ButWwithFun!}`}
+ challenge: {`Get work and coding hard! ${ButWithFun!}`}
 }
 ```
 
