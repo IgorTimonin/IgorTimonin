@@ -4,7 +4,7 @@ const igorTimonin = {
   gender: "male",
   code: [Javascript, HTML, CSS],
   frameworks: [React, Redux],
-  tools: [Express, MongoDB, Webpack]
+  tools: [Express, MongoDB, Webpack],
   architecture: ["Single Page Application", "API", "Landing page"],
   
  challenge: {`Get work and coding hard! ${ButWithFun!}`}
@@ -12,7 +12,7 @@ const igorTimonin = {
 ```
 
 
-## mySteak:
+## myStack:
 ![HTML](./images/html-5.svg)
 ![CSS](./images/css3.svg)
 ![JS](./images/JS.svg)
