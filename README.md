@@ -1,3 +1,5 @@
+Ссылка на резюме: https://myresume.ru/resume/A1hIMitPXYl/
+
 ## aboutMe:
 ```js
 const igorTimonin = {
