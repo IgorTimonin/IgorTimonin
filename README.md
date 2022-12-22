@@ -9,7 +9,7 @@ const igorTimonin = {
   tools: [Express, MongoDB, Webpack],
   architecture: ["Single Page Application", "API", "Landing page"],
   
- challenge: {`Get work and coding hard! ${ButWithFun!}`}
+ challenge: {`Get work and coding hard! ${butWithFun}`}
 }
 ```
 
@@ -30,6 +30,7 @@ const igorTimonin = {
 ## ~~Constants~~ Contacts:
 [<img src="./images/Linkedin.svg">](https://www.linkedin.com/in/igor-timonin-750085232/)
 [<img src="./images/gmail.svg" width="96px" height="96px">](mailto:lemut4nt@gmail.com)
+[<img src="./images/Yandex_Mail_icon.svg" width="96px" height="96px">](mailto:mut4nt@yandex.ru)
 
 ##
 <div>
