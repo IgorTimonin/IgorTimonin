@@ -1,4 +1,4 @@
-Ссылка на резюме: https://myresume.ru/resume/A1hIMitPXYl/
+Моё [резюме](https://myresume.ru/resume/A1hIMitPXYl/)
 
 ## aboutMe:
 ```js
