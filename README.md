@@ -16,16 +16,16 @@ const igorTimonin = {
 
 ## myStack:
 [<img src="./images/html-5.svg">](https://developer.mozilla.org/ru/docs/Glossary/HTML "HTML5")
-![CSS](./images/css3.svg "CSS3")
-![JavaScript](./images/JS.svg "JavaScript")
-![TypeScript](./images/TS.svg "TypeScript")
-![Git](./images/git.svg "Git") 
-![Webpack](./images/webpack.svg "Webpack") <br>
-![React](./images/react.svg "React")
-![Redux](./images/redux.svg "Redux")
-![NodeJS](./images/nodejs.svg "NodeJS")
-![Express](./images/expressjs.svg "Express")
-![MongoDB](./images/mongodb.svg "MongoDB")
+[<img src="./images/css3.svg">](https://developer.mozilla.org/ru/docs/Glossary/CSS "CSS3")
+[<img src="./images/JS.svg">](https://developer.mozilla.org/ru/docs/Web/JavaScript "JavaScript")
+[<img src="./images/TS.svg">](https://www.typescriptlang.org/ "TypeScript")
+[<img src="./images/git.svg">](https://ru.wikipedia.org/wiki/Git "Git") 
+[<img src="./images/webpack.svg">](https://webpack.js.org/ "Webpack") <br>
+[<img src="./images/react.svg">](https://reactjs.org/ "React")
+[<img src="./images/redux.svg">](https://redux.js.org/ "Redux")
+[<img src="./images/nodejs.svg">](https://nodejs.org/ "NodeJS")
+[<img src="./images/expressjs.svg">](https://expressjs.com/ "Express")
+[<img src="./images/mongodb.svg">](https://www.mongodb.com/home "MongoDB")
 
 
 ## ~~Constants~~ Contacts:
