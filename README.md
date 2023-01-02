@@ -18,7 +18,7 @@ const igorTimonin = {
 ![HTML](./images/html-5.svg)
 ![CSS](./images/css3.svg)
 ![JS](./images/JS.svg)
-![TS](./images/Typescript.svg)
+![TS](./images/TS.svg)
 ![Git](./images/git.svg) 
 ![Webpack](./images/webpack.svg) <br>
 ![React](./images/react.svg)
