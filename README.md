@@ -15,7 +15,7 @@ const igorTimonin = {
 
 
 ## myStack:
-![<img src="./images/html-5.svg">](https://developer.mozilla.org/ru/docs/Glossary/HTML "HTML5")
+[<img src="./images/html-5.svg">](https://developer.mozilla.org/ru/docs/Glossary/HTML "HTML5")
 ![CSS](./images/css3.svg "CSS3")
 ![JavaScript](./images/JS.svg "JavaScript")
 ![TypeScript](./images/TS.svg "TypeScript")
