@@ -15,17 +15,17 @@ const igorTimonin = {
 
 
 ## myStack:
-![HTML](./images/html-5.svg)
+![HTML](./images/html-5.svg "HTML")
 ![CSS](./images/css3.svg)
-![JS](./images/JS.svg)
-![TS](./images/TS.svg)
+![JavaScript](./images/JS.svg)
+![TypeScript](./images/TS.svg)
 ![Git](./images/git.svg) 
 ![Webpack](./images/webpack.svg) <br>
 ![React](./images/react.svg)
 ![Redux](./images/redux.svg)
-![Node](./images/nodejs.svg)
-![Node](./images/expressjs.svg)
-![Node](./images/mongodb.svg)
+![NodeJS](./images/nodejs.svg)
+![Express](./images/expressjs.svg)
+![MongoDB](./images/mongodb.svg)
 
 
 ## ~~Constants~~ Contacts:
