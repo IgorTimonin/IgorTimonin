@@ -8,8 +8,6 @@ const igorTimonin = {
   frameworks: [React, Redux, Tailwind],
   tools: [Next.js, Express, MongoDB, Webpack, Vite],
   architecture: ["Single Page Application", "Feature Sliced Design"],
-  
- challenge: {`Get work and coding hard! ${butWithFun}`}
 }
 ```
 
