@@ -4,10 +4,10 @@
 ```js
 const igorTimonin = {
   gender: "male",
-  code: [Javascript, HTML, CSS],
-  frameworks: [React, Redux],
-  tools: [Express, MongoDB, Webpack],
-  architecture: ["Single Page Application", "API", "Landing page"],
+  code: [Javascript, TypeScript],
+  frameworks: [React, Redux, Tailwind],
+  tools: [Next.js, Express, MongoDB, Webpack, Vite],
+  architecture: ["Single Page Application", "Feature Sliced Design"],
   
  challenge: {`Get work and coding hard! ${butWithFun}`}
 }
@@ -25,6 +25,7 @@ const igorTimonin = {
 [<img src="./images/redux.svg">](https://redux.js.org/ "Redux")
 [<img src="./images/nodejs.svg">](https://nodejs.org/ "NodeJS")
 [<img src="./images/expressjs.svg">](https://expressjs.com/ "Express")
+[<img src="./images/Nextjs.svg">](https://nextjs.org/ "Next.js")
 [<img src="./images/mongodb.svg">](https://www.mongodb.com/home "MongoDB")
 
 
