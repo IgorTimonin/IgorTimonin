@@ -25,8 +25,8 @@ const igorTimonin = {
 [<img src="./images/redux.svg">](https://redux.js.org/ "Redux")
 [<img src="./images/nodejs.svg">](https://nodejs.org/ "NodeJS")
 [<img src="./images/expressjs.svg">](https://expressjs.com/ "Express")
-[<img src="./images/Nextjs.svg">](https://nextjs.org/ "Next.js")
 [<img src="./images/mongodb.svg">](https://www.mongodb.com/home "MongoDB")
+[<img src="./images/Nextjs.svg">](https://nextjs.org/ "Next.js")
 
 
 ## ~~Constants~~ Contacts:
