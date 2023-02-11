@@ -5,8 +5,8 @@
 const igorTimonin = {
   gender: "male",
   code: [Javascript, TypeScript],
-  frameworks: [React, Redux, Tailwind],
-  tools: [Nextjs, Express, MongoDB, Webpack, Vite],
+  frameworks: [React, Redux, Nextjs, Tailwind],
+  tools: [Express, MongoDB, Webpack, Vite],
   architecture: ["Single Page Application", "Feature Sliced Design"],
 }
 ```
