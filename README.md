@@ -4,15 +4,15 @@
 
 ## aboutMe:
 ```js
-const igorTimonin: any = {
+const igorTimonin = {
   gender: "male",
   vocation: "coder",
-  languages: [Javascript, TypeScript],
-  frameworks: [React, Redux, Nextjs, Tailwind],
-  tools: [Nodejs, Express, MaterialUI, Bootstrap, Ant Design, PostgreSQL, GraphQL, MongoDB, Webpack, Vite],
+  languages: ['Javascript', 'TypeScript'],
+  frameworks: ['React', 'Redux', 'Nextjs', 'Tailwind'],
+  tools: ['Nodejs', 'Express', 'MaterialUI', 'Bootstrap', 'AntDesign', 'PostgreSQL', 'GraphQL', 'MongoDB', 'Webpack', 'Vite'],
   getCode(clean, clear, efficient) {
-    console.log(`I write ${clean}
-${clear}, ${efficient} code`)
+    console.log(`Write ${clean}
+${clear} and ${efficient} code`)
   }
 }
 ```
