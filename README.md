@@ -6,6 +6,7 @@
 ```js
 const igorTimonin: any = {
   gender: "male",
+  vocation: "coder",
   code: [Javascript, TypeScript],
   frameworks: [React, Redux, Nextjs, Tailwind],
   tools: [Nodejs, Express, MaterialUI, Bootstrap, Ant Design, PostgreSQL, GraphQL, MongoDB, Webpack, Vite],
