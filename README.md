@@ -3,8 +3,8 @@
 Моё [резюме](https://myresume.ru/resume/A1hIMitPXYl/)
 
 ## aboutMe:
-```js
-const igorTimonin = {
+```ts
+const igorTimonin: any = {
   gender: "male",
   code: [Javascript, TypeScript],
   frameworks: [React, Redux, Nextjs, Tailwind],
