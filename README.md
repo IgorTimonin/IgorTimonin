@@ -1,3 +1,5 @@
+Привет! Меня зовут Игорь и я просто люблю писать код
+
 Моё [резюме](https://myresume.ru/resume/A1hIMitPXYl/)
 
 ## aboutMe:
