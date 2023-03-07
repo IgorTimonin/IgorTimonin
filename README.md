@@ -8,7 +8,7 @@ const igorTimonin = {
   gender: "male",
   code: [Javascript, TypeScript],
   frameworks: [React, Redux, Nextjs, Tailwind],
-  tools: [Express, MongoDB, Webpack, Vite],
+  tools: [Nodejs, Express, MaterialUI, Bootstrap, Ant Design, PostgreSQL, GraphQL, MongoDB, Webpack, Vite],
 }
 ```
 
