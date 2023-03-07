@@ -3,7 +3,7 @@
 Моё [резюме](https://myresume.ru/resume/A1hIMitPXYl/)
 
 ## aboutMe:
-```ts
+```js
 const igorTimonin: any = {
   gender: "male",
   code: [Javascript, TypeScript],
