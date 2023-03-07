@@ -11,8 +11,7 @@ const igorTimonin = {
   frameworks: ['React', 'Redux', 'Nextjs', 'Tailwind'],
   tools: ['Nodejs', 'Express', 'MaterialUI', 'Bootstrap', 'AntDesign', 'PostgreSQL', 'GraphQL', 'MongoDB', 'Webpack', 'Vite'],
   getCode(clean, clear, efficient) {
-    console.log(`Write ${clean}
-${clear} and ${efficient} code`)
+    console.log(`Write ${clean}, ${clear} and ${efficient} code`)
   }
 }
 ```
