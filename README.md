@@ -7,7 +7,6 @@ const igorTimonin = {
   code: [Javascript, TypeScript],
   frameworks: [React, Redux, Nextjs, Tailwind],
   tools: [Express, MongoDB, Webpack, Vite],
-  architecture: ["Single Page Application", "Feature Sliced Design"],
 }
 ```
 
