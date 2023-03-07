@@ -10,7 +10,7 @@ const igorTimonin: any = {
   languages: [Javascript, TypeScript],
   frameworks: [React, Redux, Nextjs, Tailwind],
   tools: [Nodejs, Express, MaterialUI, Bootstrap, Ant Design, PostgreSQL, GraphQL, MongoDB, Webpack, Vite],
-  function getCode(clean, clear, efficient) {
+  getCode(clean, clear, efficient) {
     console.log(`I write ${clean}
 ${clear}, ${efficient} code`)
   }
